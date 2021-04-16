@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class calculatoradvance here.
+ *class calculatorProgramer 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Ridhatur Rahmah
+ * @version 0.1
  */
-public class calculatoradvance
+public class calculatorProgramer extends Calculator
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class calculatoradvance
+     * Constructor for objects of class calculatorProgramer
      */
-    public calculatoradvance()
+    public calculatorProgramer()
     {
         // initialise instance variables
         x = 0;

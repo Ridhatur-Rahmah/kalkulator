@@ -18,7 +18,7 @@ public class Calculator
     {
         this.opA=opA;
         this.opB=opB;
-        System.out.println("Obyek Calculator dengan parameter telah dibuat");
+        System.out.println("built in calculator objects");
     }
 
     /**
@@ -26,7 +26,7 @@ public class Calculator
      */
     public Calculator()
     {
-       System.out.println("Obyek Calculator tanpa parameter telah dibuat");
+       System.out.println("built in calculator objects");
     }
     
     
